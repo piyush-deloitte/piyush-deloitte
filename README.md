@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piyush Kumar a Devops guy
+- 👋 Hi, I’m Piyush Kumar a Devops Engineer
 - 👀 I’m interested in technology and programming
 
 <!---
